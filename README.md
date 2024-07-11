@@ -8,9 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://boscantiberiu.vercel.app/](https://boscantiberiu.vercel.app/)
 
-- 💬 Ask me about **React**
-
-- 📄 Know about my experiences [https://boscantiberiu-resume.tiiny.site/](https://boscantiberiu-resume.tiiny.site/)
+- 💬 Ask me about **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
