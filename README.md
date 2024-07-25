@@ -8,8 +8,6 @@
 
 🛠️ Love coding in Python and building Computer Vision projects
 
-🌱 Constantly learning and exploring new technologies
-
 💬 Fluent in English and Romanian
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tiberiu-boscan/) | [Portfolio](https://boscantiberiu.vercel.app/) | [Resume](https://boscantiberiu-resume.tiiny.site/)
