@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Tiberiu-Ioan Boșcan</h2>
+<h2>Hi there, I'm Tibi 👋</h2>
 
 👨‍🎓 Bachelor's degree in Computer Science and currently pursuing a Master's degree in Advanced Digital Imaging Technologies
 
