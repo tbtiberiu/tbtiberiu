@@ -1,10 +1,10 @@
 <h2>Hi 👋, I'm Tiberiu-Ioan Boșcan</h2>
 
-👨‍🎓 Bachelor's degree in Computer Science and 
+👨‍🎓 Bachelor's degree in Computer Science and currently pursuing a Master's degree in Advanced Digital Imaging Technologies
 
 💻 Passionate about Web Development and Machine Learning
 
-🚀 Proficient in HTML, Sass, Javascript and Angular
+🚀 Proficient in HTML, Sass, Javascript, Angular and React
 
 🛠️ Love coding in Python and building Computer Vision projects
 
