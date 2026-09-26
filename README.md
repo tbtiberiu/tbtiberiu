@@ -1,4 +1,4 @@
-Hi, I'm Tibi 👋
+### Hello, I'm Tiberiu 👋
 
 I've been into computers and software since high school, and now I'm even more into it, especially with things like agentic coding and the new ways of building software.
 
